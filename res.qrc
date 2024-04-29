@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="img">
+    <file>res/na.png</file>
+    <file>res/test.txt</file>
+  </qresource>
+</RCC>
