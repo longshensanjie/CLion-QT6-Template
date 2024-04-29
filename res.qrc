@@ -1,5 +1,5 @@
 <RCC>
-  <qresource prefix="img">
+  <qresource prefix="">
     <file>res/na.png</file>
     <file>res/test.txt</file>
   </qresource>
